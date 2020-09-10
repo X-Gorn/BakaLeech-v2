@@ -1,6 +1,6 @@
 <?php
 
-require_once('rl_init.php');
+require_once('bl_init.php');
 
 // Access denied page
 include(TEMPLATE_DIR.'header.php');
