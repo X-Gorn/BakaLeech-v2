@@ -4,13 +4,13 @@
 <meta charset="utf-8">
 <meta name="author" content="blacklizt">
 <meta name="robots" content="all">
-<meta name="description" content="Neatblue simple skins modified by Itoshiki">
+<meta name="description" content="Neatblue simple skins modified by X-Noid">
 <meta name="keywords" content="neatblue">
 <link rel="stylesheet" href="templates/neatblue/styles/rl_style_pm.css">
 <title><?php
 if (!isset($nn)) $nn = "\r\n";
 if (!isset($page_title)) {
-	echo 'Rapidleech v3.14 rev. '.$GLOBALS['rev_num'];
+	echo 'BakaLeech v3.14 rev. '.$GLOBALS['rev_num'];
 } else {
 	echo htmlspecialchars($page_title);
 }
@@ -31,4 +31,4 @@ if ($GLOBALS['options']['flist_sort']) { echo '<script src="classes/sorttable.js
 <script type="text/javascript">function toggle(b){var a=document.getElementById(b);if(a.style.display=="none"){a.style.display="block"}else{a.style.display="none"}};</script>
 </head>
 <body>
-<header><img src="https://github.com/ItoshikiMonset/Bakaleech/raw/master/templates/neatblue/images/header.jpg" height="220" width="auto" alt="rapidleech neatblue by Itoshiki"></header><br />
+<header><img src="https://telegra.ph/file/36d1fc06e7aba661e9e8e.jpg" height="auto" width="auto" alt="BakaLeech neatblue by X-Noid"></header><br />
