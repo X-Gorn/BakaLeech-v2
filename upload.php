@@ -1,6 +1,6 @@
 <?php
 
-require_once('rl_init.php');
+require_once('bl_init.php');
 ignore_user_abort(true);
 
 login_check();
