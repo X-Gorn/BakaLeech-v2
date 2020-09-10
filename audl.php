@@ -1,6 +1,6 @@
 <?php
 
-require_once('rl_init.php');
+require_once('bl_init.php');
 if ($options['auto_download_disable']) {
 	require_once('deny.php');
 	exit();
