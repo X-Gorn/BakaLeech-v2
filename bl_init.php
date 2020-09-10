@@ -27,7 +27,7 @@ define('HOST_DIR', 'hosts/');
 define('CLASS_DIR', 'classes/');
 define('CONFIG_DIR', 'configs/');
 define('BUILD', '30May2011');
-define('CREDITS', '<a href="https://t.me/xgorn" class="rl-link"><b>BakaLeech</b></a>&nbsp;<b class="rev-dev">PlugMod (X-Noid) rev. ' . $rev_num . '</b> <span class="rev-dev">' . $dev_name . '</span><br><small class="small-credits">Credits to Pramode &amp; Checkmate &amp; Kloon</small>');
+define('CREDITS', '<a href="https://t.me/xgorn" class="rl-link"><b>X-Noid</b></a>&nbsp;<b class="rev-dev">BakaLeech PlugMod (X-Noid) rev. ' . $rev_num . '</b> <span class="rev-dev">' . $dev_name . '</span><br><small class="small-credits">Credits to Pramode &amp; Checkmate &amp; Kloon</small>');
 
 require_once(CONFIG_DIR . 'setup.php');
 
