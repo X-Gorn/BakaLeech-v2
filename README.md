@@ -1,3 +1,6 @@
+## BakaLeech by X-Noid
+---
+
 ==> For Support Related Rapidleech Visit - www.rapidleech.com 
 
 ==> Last Update - January,2016 
@@ -18,8 +21,18 @@ For webmasters, if you have not tried the script before, download and install no
 
 For end-users, you may search on our forum for readily available installed scripts on servers worldwide. You may use them but please support these sites by visiting their sponsors or donate in order to keep these sites available.
 
-## Deploy to Heroku
+## Deploy to Heroku:
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
-## Read notes.txt for further use.
+## Telegram Support:
+
+[![Channel](https://img.shields.io/badge/TG-Channel-30302f?style=flat&logo=telegram)](https://t.me/xTeamBots)
+[![Group](https://img.shields.io/badge/TG-Group-30302f?style=flat&logo=telegram)](https://t.me/xTeamChats)
+
+
+## Credits, and Thanks to:
+
+* [@Th3-822](https://github.com/Th3-822) for his [RapidLeech](https://github.com/Th3-822/rapidleech)
+* [@ItoshikiMonset](https://github.com/ItoshikiMonset) for his [BakaLeech](https://github.com/ItoshikiMonset/Bakaleech)
+* And many other contributors ^_^
